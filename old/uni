@@ -1,0 +1,7 @@
+---
+
+- hosts: node
+  roles:
+    - template/example
+    - this
+    - myrole
