@@ -2,8 +2,8 @@
 
 # Static inventory template
 ansible.cfg
-net/hosts/*
-!net/template/ansible.cfg
+.net/hosts/*
+!.net/template/ansible.cfg
 
 # role Template
-this/this
+#this/this
